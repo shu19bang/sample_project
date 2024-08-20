@@ -1,3 +1,9 @@
 pandas
 numpy
 -e .
+atastax
+{
+  "clientId": "GcrAOxPsqkdmLqfdzJeSSIYb",
+  "secret": "FAwdKH2urEwh9mea2-3BbHGXHK4FIElKwN7IX-w.x7BdJqhk4ZhenPYGqP+1ZAOvO,,LMRmnBUfuu2auyFZekOUUTXNmHNaMpsS+9P2o4o-ThsSc0PBflG49Kk5a+2Hk",
+  "token": "AstraCS:GcrAOxPsqkdmLqfdzJeSSIYb:8735b0bef56d856ea0f65e2d96a738173fbc07bc649b9844db1280b86087e26f"
+}
